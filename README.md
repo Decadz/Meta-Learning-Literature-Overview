@@ -15,231 +15,41 @@ This repository contains a curated list of meta-learning papers closely related 
 
 ## Meta-Learning Survey Papers
 
-- [Meta-Learning in Neural Networks: A Survey (TPAMI2022)](https://arxiv.org/abs/2004.05439)
-
-@article{peng2020comprehensive,
-  title={A Comprehensive Overview and Survey of Recent Advances in Meta-Learning},
-  author={Peng, Huimin},
-  journal={arXiv preprint arXiv:2004.11149},
-  year={2020}
-}
-
-@article{vilalta2002perspective,
-  title={A Perspective View and Survey of Meta-Learning},
-  author={Vilalta, Ricardo and Drissi, Youssef},
-  journal={Artificial Intelligence Review},
-  year={2002},
-  publisher={Springer}
-}
-
-@article{vanschoren2018meta,
-  title={Meta-Learning: A Survey},
-  author={Vanschoren, Joaquin},
-  journal={arXiv preprint arXiv:1810.03548},
-  year={2018}
-}
+- A Perspective View and Survey of Meta-Learning. (_AIR2002_), [[paper]()].
+- Meta-Learning: A Survey. (_arXiv2018_), [[paper]()]
+- A Comprehensive Overview and Survey of Recent Advances in Meta-Learning. (_arXiv2020_), [[paper](https://arxiv.org/abs/2004.11149)].
+- Meta-Learning in Neural Networks: A Survey. (_TPAMI2022_), [[paper](https://arxiv.org/abs/2004.05439)].
 
 ## Meta-Learning Loss Functions
 
-@inproceedings{barron2019general,
-  title={A General and Adaptive Robust Loss Function},
-  author={Barron, Jonathan T},
-  booktitle={IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-  year={2019}
-}
-
-@inproceedings{gonzalez2020improved,
-  title={Improved Training Speed, Accuracy, and Data Utilization Through Loss Function Optimization},
-  author={Gonzalez, Santiago and Miikkulainen, Risto},
-  booktitle={IEEE Congress on Evolutionary Computation (CEC)},
-  year={2020}
-}
-
-@inproceedings{bechtle2021meta,
-  title={Meta-Learning via Learned Loss},
-  author={Bechtle, Sarah and Molchanov, Artem and Chebotar, Yevgen and Grefenstette, Edward and Righetti, Ludovic and Sukhatme, Gaurav and Meier, Franziska},
-  booktitle={International Conference on Pattern Recognition},
-  year={2021},
-  organization={IEEE}
-}
-
-@inproceedings{gao2021searching,
-  title={Searching for Robustness: Loss Learning for Noisy Classification Tasks},
-  author={Gao, Boyan and Gouk, Henry and Hospedales, Timothy M},
-  booktitle={IEEE/CVF International Conference on Computer Vision (ICCV)},
-  year={2021}
-}
-
-@inproceedings{gonzalez2021optimizing,
-  title={Optimizing Loss Functions through Multi-Variate Taylor Polynomial Parameterization},
-  author={Gonzalez, Santiago and Miikkulainen, Risto},
-  booktitle={ACM Genetic and Evolutionary Computation Conference (GECCO)},
-  year={2021}
-}
-
-@inproceedings{liu2021loss,
-  title={Loss Function Discovery for Object Detection via Convergence-Simulation Driven Search},
-  author={Liu, Peidong and Zhang, Gengwei and Wang, Bochao and Xu, Hang and Liang, Xiaodan and Jiang, Yong and Li, Zhenguo},
-  booktitle={International Conference on Learning Representations (ICLR)},
-  year={2020}
-}
-
-@inproceedings{li2022autoloss,
-  title={AutoLoss-Zero: Searching Loss Functions from Scratch for Generic Tasks},
-  author={Li, Hao and Fu, Tianwen and Dai, Jifeng and Li, Hongsheng and Huang, Gao and Zhu, Xizhou},
-  booktitle={IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-  year={2022}
-}
-
-@article{grabocka2019learning,
-  title={Learning Surrogate Losses},
-  author={Grabocka, Josif and Scholz, Randolf and Schmidt-Thieme, Lars},
-  journal={arXiv preprint arXiv:1905.10108},
-  year={2019}
-}
-
-@inproceedings{huang2019addressing,
-  title={Addressing the Loss-Metric Mismatch with Adaptive Loss Alignment},
-  author={Huang, Chen and Zhai, Shuangfei and Talbott, Walter and Martin, Miguel Bautista and Sun, Shih-Yu and Guestrin, Carlos and Susskind, Josh},
-  booktitle={International Conference on Machine Learning (ICML)},
-  year={2019}
-}
-
-@inproceedings{morse2020learning,
-  title={Learning State-Dependent Losses for Inverse Dynamics Learning},
-  author={Morse, Kristen and Das, Neha and Lin, Yixin and Wang, Austin S and Rai, Akshara and Meier, Franziska},
-  booktitle={International Conference on Intelligent Robots and Systems (IROS)},
-  year={2020},
-  organization={IEEE}
-}
-
-@article{gonzalez2020effective,
-  title={Effective Regularization through Loss Function Meta-Learning},
-  author={Gonzalez, Santiago and Miikkulainen, Risto},
-  journal={arXiv preprint arXiv:2010.00788},
-  year={2020}
-}
-
-@inproceedings{gao2022loss,
-  title={Loss Function Learning for Domain Generalization by Implicit Gradient},
-  author={Gao, Boyan and Gouk, Henry and Yang, Yongxin and Hospedales, Timothy},
-  booktitle={International Conference on Machine Learning (ICML)},
-  year={2022}
-}
-
-@article{leng2022polyloss,
-  title={PolyLoss: A Polynomial Expansion Perspective of Classification Loss Functions},
-  author={Leng, Zhaoqi and Tan, Mingxing and Liu, Chenxi and Cubuk, Ekin Dogus and Shi, Xiaojie and Cheng, Shuyang and Anguelov, Dragomir},
-  journal = {International Conference on Learning Representations (ICLR)},
-  year={2022}
-}
-
-@article{raymond2023online,
-  title={Online Loss Function Learning},
-  author={Raymond, Christian and Chen, Qi and Xue, Bing and Zhang, Mengjie},
-  journal={arXiv preprint arXiv:2301.13247},
-  year={2023}
-}
-
-@inproceedings{baik2021meta,
-  title={Meta-Learning with Task-Adaptive Loss Function for Few-Shot Learning},
-  author={Baik, Sungyong and Choi, Janghoon and Kim, Heewon and Cho, Dohee and Min, Jaesik and Lee, Kyoung Mu},
-  booktitle={IEEE/CVF International Conference on Computer Vision (ICCV)},
-  year={2021}
-}
-
-@article{wu2018learning,
-  title={Learning to Teach with Dynamic Loss Functions},
-  author={Wu, Lijun and Tian, Fei and Xia, Yingce and Fan, Yang and Qin, Tao and Jian-Huang, Lai and Liu, Tie-Yan},
-  journal={Advances in Neural Information Processing Systems (NeurIPS)},
-  year={2018}
-}
-
-@article{kirsch2019improving,
-  title={Improving Generalization in Meta Reinforcement Learning using Learned Objectives},
-  author={Kirsch, Louis and van Steenkiste, Sjoerd and Schmidhuber, J{\"u}rgen},
-  journal={International Conference on Learning Representations (ICLR)},
-  year={2020}
-}
-
-@article{psaros2022meta,
-  title={Meta-Learning PINN Loss Functions},
-  author={Psaros, Apostolos F and Kawaguchi, Kenji and Karniadakis, George Em},
-  journal={Journal of Computational Physics},
-  year={2022},
-  publisher={Elsevier}
-}
-
-@article{antoniou2019learning,
-  title={Learning to Learn by Self-Critique},
-  author={Antoniou, Antreas and Storkey, Amos J},
-  journal={Advances in Neural Information Processing Systems (NeurIPS)},
-  year={2019}
-}
-
-@article{gao2023meta,
-  title={Meta-Learning to Optimise: Loss Functions and Update Rules},
-  author={Gao, Boyan},
-  year={2023},
-  journal={The University of Edinburgh}
-}
-
-@article{gonzalez2020improving,
-  title={Improving Deep Learning through Loss-Function Evolution},
-  author={Gonzalez, Santiago and others},
-  year={2020},
-  journal={The University of Texas at Austin}
-}
-
-@article{raymond2023learning,
-  title={Learning Symbolic Model-Agnostic Loss Functions via Meta-Learning},
-  author={Raymond, Christian and Chen, Qi and Xue, Bing and Zhang, Mengjie},
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)},
-  year={2023},
-  organization={IEEE}
-}
-
-@inproceedings{raymond2023fast,
-  title={Fast and Efficient Local-Search for Genetic Programming Based Loss Function Learning},
-  author={Raymond, Christian and Chen, Qi and Xue, Bing and Zhang, Mengjie},
-  booktitle={ACM Genetic and Evolutionary Computation Conference (GECCO)},
-  year={2023}
-}
-
-@article{li2021autoloss,
-  title={AutoLoss-Zero: Searching Loss Functions from Scratch for Generic Tasks},
-  author={Li, Hao and Fu, Tianwen and Dai, Jifeng and Li, Hongsheng and Huang, Gao and Zhu, Xizhou},
-  journal={IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-  year={2022}
-}
-
-@inproceedings{li2019lfs,
-  title={AM-LFS: AutoML for Loss Function Search},
-  author={Li, Chuming and Yuan, Xin and Lin, Chen and Guo, Minghao and Wu, Wei and Yan, Junjie and Ouyang, Wanli},
-  booktitle={IEEE/CVF International Conference on Computer Vision (ICCV)},
-  year={2019}
-}
-
-@inproceedings{wang2020loss,
-  title={Loss Function Search for Face Recognition},
-  author={Wang, Xiaobo and Wang, Shuo and Chi, Cheng and Zhang, Shifeng and Mei, Tao},
-  booktitle={International Conference on Machine Learning (ICML)},
-  year={2020}
-}
-
-@article{morgan2024neural,
-  title={Neural Loss Function Evolution for Large-Scale Image Classifier Convolutional Neural Networks},
-  author={Morgan, Brandon and Hougen, Dean},
-  journal={arXiv preprint arXiv:2403.08793},
-  year={2024}
-}
-
-@article{morgan2024evolving,
-  title={Evolving Loss Functions for Specific Image Augmentation Techniques},
-  author={Morgan, Brandon and Hougen, Dean},
-  journal={arXiv preprint arXiv:2404.06633},
-  year={2024}
-}
+- A General and Adaptive Robust Loss Function. (_CVPR2019_), [[paper]()].
+- Improved Training Speed, Accuracy, and Data Utilization Through Loss Function Optimization. (_CEC2020_), [[paper]()].
+- Meta-Learning via Learned Loss. (_ICPR2021_), [[paper]()].
+- Searching for Robustness: Loss Learning for Noisy Classification Tasks. (_ICCV2021_), [[paper]()].
+- Optimizing Loss Functions through Multi-Variate Taylor Polynomial Parameterization. (_GECCO2021_), [[paper]()].
+- Loss Function Discovery for Object Detection via Convergence-Simulation Driven Search. (_ICLR2020_), [[paper]()].
+- AutoLoss-Zero: Searching Loss Functions from Scratch for Generic Tasks. (_CVPR2022_), [[paper]()].
+- Learning Surrogate Losses. (_arXiv2019_), [[paper]()].
+- Addressing the Loss-Metric Mismatch with Adaptive Loss Alignment. (_ICML2019_), [[paper]()].
+- Learning State-Dependent Losses for Inverse Dynamics Learning. (_IROS2020_), [[paper]()].
+- Effective Regularization through Loss Function Meta-Learning. (_arXiv2020_), [[paper]()].
+- Loss Function Learning for Domain Generalization by Implicit Gradient. (_ICML2022_), [[paper]()].
+- PolyLoss: A Polynomial Expansion Perspective of Classification Loss Functions. (_ICLR2022_), [[paper]()].
+- Online Loss Function Learning. (_arXiv2023_), [[paper]()].
+- Meta-Learning with Task-Adaptive Loss Function for Few-Shot Learning. (_ICCV2021_), [[paper]()].
+- Learning to Teach with Dynamic Loss Functions. (_NeurIPS2018_), [[paper]()].
+- Improving Generalization in Meta Reinforcement Learning using Learned Objectives. (_ICLR2020_), [[paper]()].
+- Meta-Learning PINN Loss Functions. (_JCP2022_), [[paper]()].
+- Learning to Learn by Self-Critique. (_NeurIPS2019_), [[paper]()].
+- Meta-Learning to Optimise: Loss Functions and Update Rules. (_Thesis2023_), [[paper]()].
+- Improving Deep Learning through Loss-Function Evolution. (_Thesis2020_), [[paper]()].
+- Learning Symbolic Model-Agnostic Loss Functions via Meta-Learning. (_TPAMI2023_), [[paper]()].
+- Fast and Efficient Local-Search for Genetic Programming Based Loss Function Learning. (_GECCO2023_), [[paper]()].
+- AutoLoss-Zero: Searching Loss Functions from Scratch for Generic Tasks. (_CVPR2022_), [[paper]()].
+- AM-LFS: AutoML for Loss Function Search. (_ICCV2019_), [[paper]()].
+- Loss Function Search for Face Recognition. (_ICML2020_), [[paper]()].
+- Neural Loss Function Evolution for Large-Scale Image Classifier Convolutional Neural Networks. (_arXiv2024_), [[paper]()].
+- Evolving Loss Functions for Specific Image Augmentation Techniques. (_arXiv2024_), [[paper]()].
 
 ## Meta-Learning Optimizers
 
