@@ -4,7 +4,9 @@ Meta-Learning Literature Overview
 
 This repository contains a curated list of meta-learning papers closely related to my [PhD thesis](https://arxiv.org/abs/2406.09713). The research papers are primarily focused on optimization-based meta-learning approaches for learning loss functions, optimizers, and parameter initialization.
 
-**Table of Contents**
+![meta-learning-banner](https://github.com/user-attachments/assets/cd132fac-0bbe-4694-9f3c-59be0f33da47)
+
+## Table of Contents
 
 - [Meta-Learning Survey Papers](#meta-learning-survey-papers)
 - [Meta-Learning Loss Functions](#meta-learning-loss-functions)
