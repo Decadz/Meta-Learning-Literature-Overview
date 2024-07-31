@@ -12,6 +12,7 @@ This repository contains a curated list of meta-learning papers closely related 
 - [Meta-Learning Parameter Initializations](#meta-learning-parameter-initializations)
 - [Meta-Learning Miscellaneous](#meta-learning-miscellaneous)
 - [Meta-Optimization](#meta-optimization)
+- [Meta-Learning Blog Posts](#meta-learning-blog-posts)
 - [Meta-Learning Libraries](#meta-learning-libraries)
 
 ## Meta-Learning Survey Papers
@@ -127,6 +128,13 @@ This repository contains a curated list of meta-learning papers closely related 
 - The Curse of Unrolling: Rate of Differentiating through Optimization. (_NeurIPS2022_), [[paper](https://arxiv.org/abs/2209.13271)].
 - Bootstrapped Meta-Learning. (_ICLR2022_), [[paper](https://arxiv.org/abs/2109.04504)].
 - Optimistic Meta-Gradients. (_NeurIPS2024_), [[paper](https://arxiv.org/abs/2301.03236)].
+
+## Meta-Learning Blog Posts
+
+- Learning to Learn [[link](https://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/)]
+- Meta-Learning: Learning to Learn Fast [[link](https://lilianweng.github.io/posts/2018-11-30-meta-learning/)]
+- An Interactive Introduction to Model-Agnostic Meta-Learning [[link](https://interactive-maml.github.io)]
+- Reptile: A scalable meta-learning algorithm [[link](https://openai.com/index/reptile/)]
 
 ## Meta-Learning Libraries
 
