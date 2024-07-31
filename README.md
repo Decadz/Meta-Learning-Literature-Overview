@@ -2,7 +2,7 @@
 Meta-Learning Literature Overview 
 </h1>
 
-This repository contains a curated list of meta-learning papers closely related to my PhD research. The research papers are primarily focused on optimization-based meta-learning approaches for learning loss functions, optimizers, and parameter initialization.
+This repository contains a curated list of meta-learning papers closely related to my [PhD thesis](https://arxiv.org/abs/2406.09713). The research papers are primarily focused on optimization-based meta-learning approaches for learning loss functions, optimizers, and parameter initialization.
 
 **Table of Contents**
 
@@ -69,60 +69,60 @@ This repository contains a curated list of meta-learning papers closely related 
 
 ## Meta-Learning Parameter Initializations
 
-- Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks. (_ICML2017_), [[paper]()].
-- On First-Order Meta-Learning Algorithms. (_arXiv2018_), [[paper]()].
-- Meta-Learning with Implicit Gradients. (_NeurIPS2019_), [[paper]()].
-- Alpha MAML: Adaptive Model-Agnostic Meta-Learning. (_arXiv2019_), [[paper]()].
-- How to Train Your MAML. (_ICLR2019_), [[paper]()].
-- Meta-Learning with Latent Embedding Optimization. (_ICLR2019_), [[paper]()].
-- Multimodal Model-Agnostic Meta-Learning via Task-Aware Modulation. (_NeurIPS2019_), [[paper]()].
-- Fast Context Adaptation via Meta-Learning. (_ICML2019_), [[paper]()].
-- Rapid Learning or Feature Reuse? Towards Understanding the Effectiveness of MAML. (_arXiv2019_), [[paper]()].
-- ES-MAML: Simple Hessian-Free Meta-Learning. (_ICLR2020_), [[paper]()].
-- BOIL: Towards Representation Change for Few-Shot Learning. (_arXiv2020_), [[paper]()].
-- How to Train Your MAML to Excel in Few-Shot Classification. (_ICLR2021_), [[paper]()].
-- Meta-Learning Neural Procedural Biases. (arXiv2024), [[paper]()].
+- Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks. (_ICML2017_), [[paper](https://arxiv.org/abs/1703.03400)].
+- On First-Order Meta-Learning Algorithms. (_arXiv2018_), [[paper](https://arxiv.org/abs/1803.02999)].
+- Meta-Learning with Implicit Gradients. (_NeurIPS2019_), [[paper](https://arxiv.org/abs/1909.04630)].
+- Alpha MAML: Adaptive Model-Agnostic Meta-Learning. (_arXiv2019_), [[paper](https://arxiv.org/abs/1905.07435)].
+- How to Train Your MAML. (_ICLR2019_), [[paper](https://arxiv.org/abs/1810.09502)].
+- Meta-Learning with Latent Embedding Optimization. (_ICLR2019_), [[paper](https://arxiv.org/abs/1807.05960)].
+- Multimodal Model-Agnostic Meta-Learning via Task-Aware Modulation. (_NeurIPS2019_), [[paper](https://arxiv.org/abs/1910.13616)].
+- Fast Context Adaptation via Meta-Learning. (_ICML2019_), [[paper](https://arxiv.org/abs/1810.03642)].
+- Rapid Learning or Feature Reuse? Towards Understanding the Effectiveness of MAML. (_arXiv2019_), [[paper](https://arxiv.org/abs/1909.09157)].
+- ES-MAML: Simple Hessian-Free Meta-Learning. (_ICLR2020_), [[paper](https://arxiv.org/abs/1910.01215)].
+- BOIL: Towards Representation Change for Few-Shot Learning. (_arXiv2020_), [[paper](https://arxiv.org/abs/2008.08882)].
+- How to Train Your MAML to Excel in Few-Shot Classification. (_ICLR2021_), [[paper](https://arxiv.org/abs/2106.16245)].
+- Meta-Learning Neural Procedural Biases. (arXiv2024), [[paper](https://arxiv.org/abs/2406.07983)].
 
 ## Meta-Learning Miscellaneous
 
-- Siamese Neural Networks for One-Shot Image Recognition. (_ICML2015_), [[paper]()].
-- Matching Networks for One-Shot Learning. (_NeurIPS2016_), [[paper]()].
-- Meta-Learning with Memory-Augmented Neural Networks. (_ICML2016_), [[paper]()].
-- Prototypical Networks for Few-Shot Learning. (_NeurIPS2017_), [[paper]()].
-- Searching for Activation Functions. (_arXiv2017_), [[paper]()].
-- Learning to Learn: Meta-Critic Networks for Sample Efficient Learning. (_arXiv2017_), [[paper]()].
-- Meta-Learning with Differentiable Closed-Form Solvers. (_arXiv2018_), [[paper]()].
-- Learning to Reweight Examples for Robust Deep Learning. (_ICML2018_), [[paper]()].
-- Learning to Compare: Relation Network for Few-Shot Learning. (_CVPR2018_), [[paper]()].
-- Online Learning Rate Adaptation with Hypergradient Descent. (_ICLR2018_), [[paper]()].
-- TADAM: Task Dependent Adaptive Metric for Improved Few-Shot Learning. (_NeurIPS2018_), [[paper]()].
-- MetaReg: Towards Domain Generalization using Meta-Regularization. (_NeurIPS2018_), [[paper]()].
-- Learning to Learn with Conditional Class Dependencies. (_ICLR2018_), [[paper]()].
-- Meta-Learning for Semi-Supervised Few-Shot Classification. (_ICLR2018_), [[paper]()].
-- Few-Shot Image Recognition by Predicting Parameters from Activations. (_CVPR2018_), [[paper]()].
-- Fast and Flexible Multi-Task Classification using Conditional Neural Adaptive Processes. (_NeurIPS2019_), [[paper]()].
-- Meta-Learning with Differentiable Convex Optimization. (_CVPR2019_), [[paper]()].
-- AutoML-Zero: Evolving Machine Learning Algorithms From Scratch. (_ICML2020_), [[paper]()].
-- Evolving Normalization-Activation Layers. (_NeurIPS2020_), [[paper]()].
-- Meta-Learning with Adaptive Hyperparameters. (_NeurIPS2020_), [[paper]()].
-- Differentiable Automatic Data Augmentation. (_ECCV2020_), [[paper]()].
-- Few-Shot Learning via Embedding Adaptation with Set-to-Set Functions. (_CVPR2020_), [[paper]()].
-- Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples. (_ICLR2020_), [[paper]()].
-- Evolving Reinforcement Learning Algorithms. (_ICLR2021_), [[paper]()].
-- Learning to Learn Task-Adaptive Hyperparameters for Few-Shot Learning. (_TPAMI2023_), [[paper]()].
+- Siamese Neural Networks for One-Shot Image Recognition. (_ICML2015_), [[paper](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)].
+- Matching Networks for One-Shot Learning. (_NeurIPS2016_), [[paper](https://arxiv.org/abs/1606.04080)].
+- Meta-Learning with Memory-Augmented Neural Networks. (_ICML2016_), [[paper](https://proceedings.mlr.press/v48/santoro16.pdf)].
+- Prototypical Networks for Few-Shot Learning. (_NeurIPS2017_), [[paper](https://arxiv.org/abs/1703.05175)].
+- Searching for Activation Functions. (_arXiv2017_), [[paper](https://arxiv.org/abs/1710.05941)].
+- Learning to Learn: Meta-Critic Networks for Sample Efficient Learning. (_arXiv2017_), [[paper](https://arxiv.org/abs/1706.09529)].
+- Meta-Learning with Differentiable Closed-Form Solvers. (_arXiv2018_), [[paper](https://arxiv.org/abs/1805.08136)].
+- Learning to Reweight Examples for Robust Deep Learning. (_ICML2018_), [[paper](https://arxiv.org/abs/1803.09050)].
+- Learning to Compare: Relation Network for Few-Shot Learning. (_CVPR2018_), [[paper](https://arxiv.org/abs/1711.06025)].
+- Online Learning Rate Adaptation with Hypergradient Descent. (_ICLR2018_), [[paper](https://arxiv.org/abs/1703.04782)].
+- TADAM: Task Dependent Adaptive Metric for Improved Few-Shot Learning. (_NeurIPS2018_), [[paper](https://arxiv.org/abs/1805.10123)].
+- MetaReg: Towards Domain Generalization using Meta-Regularization. (_NeurIPS2018_), [[paper](https://papers.nips.cc/paper_files/paper/2018/hash/647bba344396e7c8170902bcf2e15551-Abstract.html)].
+- Learning to Learn with Conditional Class Dependencies. (_ICLR2018_), [[paper](https://openreview.net/forum?id=BJfOXnActQ)].
+- Few-Shot Image Recognition by Predicting Parameters from Activations. (_CVPR2018_), [[paper](https://arxiv.org/abs/1706.03466)].
+- Fast and Flexible Multi-Task Classification using Conditional Neural Adaptive Processes. (_NeurIPS2019_), [[paper](https://arxiv.org/abs/1906.07697)].
+- Meta-Learning for Semi-Supervised Few-Shot Classification. (_ICLR2019_), [[paper](https://arxiv.org/abs/1803.00676)].
+- Meta-Learning with Differentiable Convex Optimization. (_CVPR2019_), [[paper](https://arxiv.org/abs/1904.03758)].
+- AutoML-Zero: Evolving Machine Learning Algorithms From Scratch. (_ICML2020_), [[paper](https://arxiv.org/abs/2003.03384)].
+- Evolving Normalization-Activation Layers. (_NeurIPS2020_), [[paper](https://arxiv.org/abs/2004.02967)].
+- Meta-Learning with Adaptive Hyperparameters. (_NeurIPS2020_), [[paper](https://arxiv.org/abs/2011.00209)].
+- Differentiable Automatic Data Augmentation. (_ECCV2020_), [[paper](https://arxiv.org/abs/2003.03780)].
+- Few-Shot Learning via Embedding Adaptation with Set-to-Set Functions. (_CVPR2020_), [[paper](https://arxiv.org/abs/1812.03664)].
+- Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples. (_ICLR2020_), [[paper](https://arxiv.org/abs/1903.03096)].
+- Evolving Reinforcement Learning Algorithms. (_ICLR2021_), [[paper](https://arxiv.org/abs/2101.03958)].
+- Learning to Learn Task-Adaptive Hyperparameters for Few-Shot Learning. (_TPAMI2023_), [[paper](https://ieeexplore.ieee.org/abstract/document/10080995)].
 
 ## Meta-Optimization
 
-- Gradient-Based Hyperparameter Optimization through Reversible Learning. (_ICML2015_), [[paper]()].
-- Forward and Reverse Gradient-based Hyperparameter Optimization. (_ICML2017_), [[paper]()].
-- Bilevel Programming for Hyperparameter Optimization and Meta-Learning. (_ICML2018_), [[paper]()].
-- Understanding Short-Horizon Bias in Stochastic Meta-Optimization. (_ICLR2018_), [[paper]()].
-- Generalized Inner Loop Meta-Learning. (_arXiv2019_), [[paper]()].
-- Transferring Knowledge Across Learning Processes. (_ICLR2019_), [[paper]()].
-- Truncated Back-propagation for Bilevel Optimization. (_AISTATS2019_), [[paper]()].
-- Optimizing Millions of Hyperparameters by Implicit Differentiation. (_AISTATS2020_), [[paper]()].
+- Gradient-Based Hyperparameter Optimization through Reversible Learning. (_ICML2015_), [[paper](https://arxiv.org/abs/1502.03492)].
+- Forward and Reverse Gradient-based Hyperparameter Optimization. (_ICML2017_), [[paper](https://arxiv.org/abs/1703.01785)].
+- Bilevel Programming for Hyperparameter Optimization and Meta-Learning. (_ICML2018_), [[paper](https://arxiv.org/abs/1806.04910)].
+- Understanding Short-Horizon Bias in Stochastic Meta-Optimization. (_ICLR2018_), [[paper](https://arxiv.org/abs/1803.02021)].
+- Generalized Inner Loop Meta-Learning. (_arXiv2019_), [[paper](https://arxiv.org/abs/1910.01727)].
+- Transferring Knowledge Across Learning Processes. (_ICLR2019_), [[paper](https://arxiv.org/abs/1812.01054)].
+- Truncated Back-propagation for Bilevel Optimization. (_AISTATS2019_), [[paper](https://arxiv.org/abs/1810.10667)].
+- Optimizing Millions of Hyperparameters by Implicit Differentiation. (_AISTATS2020_), [[paper](https://arxiv.org/abs/1911.02590)].
 - EvoGrad: Efficient Gradient-Based Meta-Learning and Hyperparameter Optimization. (_NeurIPS2021_), [[paper](https://arxiv.org/abs/2106.10575)].
-- Gradient-Based Bi-level Optimization for Deep Learning: A Survey. (_arXiv2022_), [[paper]()].
-- The Curse of Unrolling: Rate of Differentiating through Optimization. (_NeurIPS2022_), [[paper]()].
-- Bootstrapped Meta-Learning. (_ICLR2022_), [[paper]()].
-- Optimistic Meta-Gradients. (_NeurIPS2024_), [[paper]()].
+- Gradient-Based Bi-level Optimization for Deep Learning: A Survey. (_arXiv2022_), [[paper](https://arxiv.org/abs/2207.11719)].
+- The Curse of Unrolling: Rate of Differentiating through Optimization. (_NeurIPS2022_), [[paper](https://arxiv.org/abs/2209.13271)].
+- Bootstrapped Meta-Learning. (_ICLR2022_), [[paper](https://arxiv.org/abs/2109.04504)].
+- Optimistic Meta-Gradients. (_NeurIPS2024_), [[paper](https://arxiv.org/abs/2301.03236)].
