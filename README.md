@@ -131,6 +131,6 @@ This repository contains a curated list of meta-learning papers closely related 
 ## Meta-Learning Libraries
 
 - Higher [[link](https://github.com/facebookresearch/higher)].
-- TorchMeta [[link](https://github.com/tristandeleu/pytorch-meta)]
-- Learn2learn [[link](https://github.com/learnables/learn2learn)]
-- TorchOpt [[link](https://github.com/metaopt/torchopt)]
+- TorchMeta [[link](https://github.com/tristandeleu/pytorch-meta)].
+- Learn2learn [[link](https://github.com/learnables/learn2learn)].
+- TorchOpt [[link](https://github.com/metaopt/torchopt)].
