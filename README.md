@@ -12,6 +12,7 @@ This repository contains a curated list of meta-learning papers closely related 
 - [Meta-Learning Parameter Initializations](#meta-learning-parameter-initializations)
 - [Meta-Learning Miscellaneous](#meta-learning-miscellaneous)
 - [Meta-Optimization](#meta-optimization)
+- [Meta-Learning Libraries](#meta-learning-libraries)
 
 ## Meta-Learning Survey Papers
 
@@ -97,7 +98,7 @@ This repository contains a curated list of meta-learning papers closely related 
 - Online Learning Rate Adaptation with Hypergradient Descent. (_ICLR2018_), [[paper](https://arxiv.org/abs/1703.04782)].
 - TADAM: Task Dependent Adaptive Metric for Improved Few-Shot Learning. (_NeurIPS2018_), [[paper](https://arxiv.org/abs/1805.10123)].
 - MetaReg: Towards Domain Generalization using Meta-Regularization. (_NeurIPS2018_), [[paper](https://papers.nips.cc/paper_files/paper/2018/hash/647bba344396e7c8170902bcf2e15551-Abstract.html)].
-- Learning to Learn with Conditional Class Dependencies. (_ICLR2018_), [[paper](https://openreview.net/forum?id=BJfOXnActQ)].
+- Learning to Learn with Conditional Class Dependencies. (,_ICLR2018_), [[paper](https://openreview.net/forum?id=BJfOXnActQ)].
 - Few-Shot Image Recognition by Predicting Parameters from Activations. (_CVPR2018_), [[paper](https://arxiv.org/abs/1706.03466)].
 - Fast and Flexible Multi-Task Classification using Conditional Neural Adaptive Processes. (_NeurIPS2019_), [[paper](https://arxiv.org/abs/1906.07697)].
 - Meta-Learning for Semi-Supervised Few-Shot Classification. (_ICLR2019_), [[paper](https://arxiv.org/abs/1803.00676)].
@@ -126,3 +127,10 @@ This repository contains a curated list of meta-learning papers closely related 
 - The Curse of Unrolling: Rate of Differentiating through Optimization. (_NeurIPS2022_), [[paper](https://arxiv.org/abs/2209.13271)].
 - Bootstrapped Meta-Learning. (_ICLR2022_), [[paper](https://arxiv.org/abs/2109.04504)].
 - Optimistic Meta-Gradients. (_NeurIPS2024_), [[paper](https://arxiv.org/abs/2301.03236)].
+
+## Meta-Learning Libraries
+
+- Higher [[link](https://github.com/facebookresearch/higher)].
+- TorchMeta [[link](https://github.com/tristandeleu/pytorch-meta)]
+- Learn2learn [[link](https://github.com/learnables/learn2learn)]
+- TorchOpt [[link](https://github.com/metaopt/torchopt)]
