@@ -68,13 +68,19 @@ This repository contains a curated list of meta-learning papers closely related 
 - Understanding and Correcting Pathologies in the Training of Learned Optimizers. (_ICML2019_), [[paper](https://arxiv.org/abs/1810.10180)].
 - Meta-Learning with Warped Gradient Descent. (_ICLR2020_), [[paper](https://arxiv.org/abs/1909.00025)].
 - On Modulating the Gradient for Meta-Learning. (_ECCV2020_), [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530545.pdf)].
+- Tasks, Stability, Architecture, and Compute: Training More Effective Learned Optimizers, and Using Them to Train Themselves. (_arXiv2020_), [[paper](https://arxiv.org/abs/2009.11243)].
 - Learning to Optimize: A Primer and a Benchmark. (_JMLR2022_), [[paper](https://arxiv.org/abs/2103.12828)].
+- VeLO: Training Versatile Learned Optimizers by Scaling Up. (_arXiv2022_), [[paper](https://arxiv.org/abs/2211.09760)]
+- Practical Tradeoffs Between Memory, Compute, and Performance in Learned Optimizers. (_CoLLA2002_), [[paper](https://arxiv.org/abs/2203.11860)].
 - Meta-Learning with a Geometry-Adaptive Preconditioner. (_CVPR2023_), [[paper](https://arxiv.org/abs/2304.01552)].
+- Symbolic Discovery of Optimization Algorithms. (_arXiv2023_), [[paper](https://arxiv.org/abs/2302.06675)].
 
 ## Meta-Learning Parameter Initializations
 
 - Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks. (_ICML2017_), [[paper](https://arxiv.org/abs/1703.03400)].
 - On First-Order Meta-Learning Algorithms. (_arXiv2018_), [[paper](https://arxiv.org/abs/1803.02999)].
+- Probabilistic Model-Agnostic Meta-Learning. (_NeurIPS2018_), [[paper](https://arxiv.org/abs/1806.02817)].
+- Toward Multimodal Model-Agnostic Meta-Learning. (_NeurIPS2018_), [[paper](https://arxiv.org/abs/1812.07172)].
 - Meta-Learning with Implicit Gradients. (_NeurIPS2019_), [[paper](https://arxiv.org/abs/1909.04630)].
 - Alpha MAML: Adaptive Model-Agnostic Meta-Learning. (_arXiv2019_), [[paper](https://arxiv.org/abs/1905.07435)].
 - How to Train Your MAML. (_ICLR2019_), [[paper](https://arxiv.org/abs/1810.09502)].
@@ -101,7 +107,7 @@ This repository contains a curated list of meta-learning papers closely related 
 - Online Learning Rate Adaptation with Hypergradient Descent. (_ICLR2018_), [[paper](https://arxiv.org/abs/1703.04782)].
 - TADAM: Task Dependent Adaptive Metric for Improved Few-Shot Learning. (_NeurIPS2018_), [[paper](https://arxiv.org/abs/1805.10123)].
 - MetaReg: Towards Domain Generalization using Meta-Regularization. (_NeurIPS2018_), [[paper](https://papers.nips.cc/paper_files/paper/2018/hash/647bba344396e7c8170902bcf2e15551-Abstract.html)].
-- Learning to Learn with Conditional Class Dependencies. (,_ICLR2018_), [[paper](https://openreview.net/forum?id=BJfOXnActQ)].
+- Learning to Learn with Conditional Class Dependencies. (_ICLR2018_), [[paper](https://openreview.net/forum?id=BJfOXnActQ)].
 - Few-Shot Image Recognition by Predicting Parameters from Activations. (_CVPR2018_), [[paper](https://arxiv.org/abs/1706.03466)].
 - Fast and Flexible Multi-Task Classification using Conditional Neural Adaptive Processes. (_NeurIPS2019_), [[paper](https://arxiv.org/abs/1906.07697)].
 - Meta-Learning for Semi-Supervised Few-Shot Classification. (_ICLR2019_), [[paper](https://arxiv.org/abs/1803.00676)].
