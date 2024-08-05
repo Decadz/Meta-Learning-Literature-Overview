@@ -51,6 +51,7 @@ This repository contains a curated list of meta-learning papers closely related 
 - Fast and Efficient Local-Search for Genetic Programming Based Loss Function Learning. (_GECCO2023_), [[paper](https://arxiv.org/abs/2403.00865)].
 - Online Loss Function Learning. (_arXiv2023_), [[paper](https://arxiv.org/abs/2301.13247)].
 - Meta-Learning to Optimise: Loss Functions and Update Rules. (_Thesis2023_), [[paper](https://era.ed.ac.uk/handle/1842/39821)].
+- OWAdapt: An Adaptive Loss Function For Deep Learning using OWA Operators. (_arXiv2023_), [[paper](https://arxiv.org/abs/2305.19443)].
 - Neural Loss Function Evolution for Large-Scale Image Classifier Convolutional Neural Networks. (_arXiv2024_), [[paper](https://arxiv.org/abs/2403.08793)].
 - Evolving Loss Functions for Specific Image Augmentation Techniques. (_arXiv2024_), [[paper](https://arxiv.org/abs/2404.06633)].
 - Meta-Learning Loss Functions for Deep Neural Networks. (_Thesis2024_), [[paper](https://arxiv.org/abs/2406.09713)].
