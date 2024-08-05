@@ -142,7 +142,7 @@ This repository contains a curated list of meta-learning papers closely related 
 - Learning to Learn [[link](https://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/)]
 - Meta-Learning: Learning to Learn Fast [[link](https://lilianweng.github.io/posts/2018-11-30-meta-learning/)]
 - An Interactive Introduction to Model-Agnostic Meta-Learning [[link](https://interactive-maml.github.io)]
-- Reptile: A scalable meta-learning algorithm [[link](https://openai.com/index/reptile/)]
+- Reptile: A Scalable Meta-Learning Algorithm [[link](https://openai.com/index/reptile/)]
 
 ## Meta-Learning Libraries
 
