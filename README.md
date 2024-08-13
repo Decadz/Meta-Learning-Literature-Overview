@@ -74,6 +74,7 @@ This repository contains a curated list of meta-learning papers closely related 
 - Learning to Optimize: A Primer and a Benchmark. (_JMLR2022_), [[paper](https://arxiv.org/abs/2103.12828)].
 - VeLO: Training Versatile Learned Optimizers by Scaling Up. (_arXiv2022_), [[paper](https://arxiv.org/abs/2211.09760)]
 - Practical Tradeoffs Between Memory, Compute, and Performance in Learned Optimizers. (_CoLLA2002_), [[paper](https://arxiv.org/abs/2203.11860)].
+- A Closer Look at Learned Optimization: Stability, Robustness, and Inductive Biases. (_NeurIPS2022_), [[paper](https://arxiv.org/abs/2209.11208)] 
 - Meta-Learning with a Geometry-Adaptive Preconditioner. (_CVPR2023_), [[paper](https://arxiv.org/abs/2304.01552)].
 - Symbolic Discovery of Optimization Algorithms. (_arXiv2023_), [[paper](https://arxiv.org/abs/2302.06675)].
 
