@@ -65,7 +65,6 @@ This repository contains a curated list of meta-learning papers closely related 
 - Learned Optimizers that Scale and Generalize. (_ICML2017_), [[paper](https://arxiv.org/abs/1703.04813)].
 - Optimization as a Model for Few-Shot Learning. (_ICLR2017_), [[paper](https://openreview.net/pdf?id=rJY0-Kcll)].
 - Gradient-Based Meta-Learning with Learned Layerwise Metric and Subspace. (_ICML2018_), [[paper](https://arxiv.org/abs/1801.05558)].
-- Meta-Learning with Adaptive Layerwise Metric and Subspace. (_ICML2018_), [[paper](https://arxiv.org/abs/1801.05558)].
 - Meta-Curvature. (_NeurIPS2019_), [[paper](https://arxiv.org/abs/1902.03356)].
 - Understanding and Correcting Pathologies in the Training of Learned Optimizers. (_ICML2019_), [[paper](https://arxiv.org/abs/1810.10180)].
 - Meta-Learning with Warped Gradient Descent. (_ICLR2020_), [[paper](https://arxiv.org/abs/1909.00025)].
