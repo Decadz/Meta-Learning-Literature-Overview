@@ -138,6 +138,7 @@ This repository contains a curated list of meta-learning papers closely related 
 - The Curse of Unrolling: Rate of Differentiating through Optimization. (_NeurIPS2022_), [[paper](https://arxiv.org/abs/2209.13271)].
 - Bootstrapped Meta-Learning. (_ICLR2022_), [[paper](https://arxiv.org/abs/2109.04504)].
 - Optimistic Meta-Gradients. (_NeurIPS2024_), [[paper](https://arxiv.org/abs/2301.03236)].
+- A Stochastic Approach to Bi-Level Optimization for Hyperparameter Optimization and Meta Learning. (_arXiv2024_), [[paper](https://arxiv.org/abs/2410.10417)].
 
 ## Meta-Learning Blog Posts
 
